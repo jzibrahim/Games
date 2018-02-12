@@ -5,5 +5,5 @@ These are some children's games for teaching them their letters and how to read.
 - Alphabet - Shows the alphabet in upper case, lower case, and a word starting with that letter.
 ![alphabet screenshot](/alphabet/alphabet_screenshot.png?raw=true "Alphabet screenshot")
 - Word game - Three-letter word that switches to other three-letter words as you click on each letter.
-![hot screenshot](/word_game/hot_screenshot.png?raw=true "hot screenshot")
-![hat screenshot](/word_game/hat_screenshot.png?raw=true "hat screenshot")
+![hot screenshot](/word_game/hot_screenshot.png?raw=true "hot screenshot" =250x250)
+![hat screenshot](/word_game/hat_screenshot.png?raw=true "hat screenshot" =250x250)
